@@ -1,0 +1,4 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "/root/anaconda3/envs/python377/bin/python"
+}
